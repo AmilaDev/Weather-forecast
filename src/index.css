@@ -3,3 +3,13 @@
 	padding: 0;
 	box-sizing: border-box;
 }
+
+body {
+	font-family: 'Gelasio', serif;
+	font-size: 65px;
+
+	background-image: linear-gradient(to bottom, #4d79cf, #2d4bb6);
+	/*background-color: #1c7195;*/
+	background-repeat: no-repeat;
+	min-height: 100vh;
+}
